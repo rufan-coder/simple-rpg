@@ -1,0 +1,10 @@
+# Visual Studio / .NET 빌드 결과물과 개인 설정 파일
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# 게임 리소스(이미지·사운드)는 저작권 문제로 저장소에 올리지 않음
+Image/
+Sound/
